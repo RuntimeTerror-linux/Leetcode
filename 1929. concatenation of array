@@ -1,0 +1,5 @@
+def getConcatenation(nums):
+        ans = []
+        ans = nums
+        ans += nums
+        return ans
